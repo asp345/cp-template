@@ -5,7 +5,7 @@ using namespace std;
 using i64 = long long;
 using u64 = unsigned long long;
 using f64 = long double;
-using pi64 = pair<i64, i64>;
+using pii = pair<i64, i64>;
 using vi = vector<i64>;
 using v2i = vector<vi>;
 
